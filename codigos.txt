@@ -1,0 +1,5 @@
+Pikachu:SiSiSiSiSiSiSiSiSiSi
+Charizard:SiSiSiSiSiSiSiSiSiNo
+Bulbasaur:SiNoSiNoSiNoSiNoSiNo
+Squirtle:SiNoSiNoSiNoSiNoSiSi
+Jigglypuff:SiNoSiSiNoNoNoNoNoNo

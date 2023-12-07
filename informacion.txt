@@ -1,0 +1,6 @@
+Ejemplo de algunas preguntas que pueden aparecer:
+
+G.1 El Pokemon tiene más de un tipo elemental?
+G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?
+A.1 El Pokemon es de tipo Agua?
+A.2 El Pokemon es de tipo Fuego?

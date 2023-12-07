@@ -1,0 +1,1685 @@
+Pregunta A.7: A.7El Pokemon es de tipo Veneno?: Si
+Pregunta B.9: B.9El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta C.1: C.1El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta B.10: B.10El Pokemon es habil en movimientos de tipo Tierra?: Si
+Pregunta None.None: : Si
+Pregunta A.16: A.16El Pokemon es de tipo Siniestro?: Si
+Pregunta B.15: B.15El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.14: B.14El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta B.7: B.7El Pokemon es conocido por movimientos electricos?: Si
+Pregunta A.12: A.12El Pokemon es de tipo Bicho?: No
+Pregunta C.5: C.5El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta B.2: B.2El Pokemon es habil en ataques de tipo Fuego?: No
+Pregunta C.9: C.9El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta A.10: A.10El Pokemon es de tipo Psíquico?: No
+Pregunta A.2: A.2El Pokemon es de tipo Fuego?: Si
+Pregunta A.15: A.15El Pokemon es de tipo Dragón?: No
+Pregunta None.None: : Si
+Pregunta B.17: B.17El Pokemon es conocido por movimientos de tipo Hada?: No
+Pregunta A.8: A.8El Pokemon es de tipo Electrico?: No
+Pregunta A.6: A.6El Pokemon es de tipo Volador?: Si
+Pregunta C.4: C.4El Pokemon tiene una paleta de colores mayoritariamente calida?: Si
+Pregunta C.2: C.2El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta A.9: A.9El Pokemon es de tipo Hielo?: No
+Pregunta A.3: A.3El Pokemon es de tipo Agua?: No
+Pregunta None.None: : No
+Pregunta C.8: C.8El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta A.17: A.17El Pokemon es de tipo Acero?: No
+Pregunta B.9: B.9 ¿El Pokémon es conocido por movimientos de tipo Lucha?: Si
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: Si
+Pregunta B.15: B.15 ¿El Pokémon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: Si
+Pregunta None.None: : No
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: No
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: No
+Pregunta None.None: : Si
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: Si
+Pregunta B.13: B.13 ¿El Pokémon es hábil en movimientos de tipo Fantasma?: No
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: Si
+Pregunta B.4: B.4 ¿El Pokémon es experto en ataques de tipo Planta?: No
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: Si
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: No
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: No
+Pregunta None.None: : No
+Pregunta B.7: B.7 ¿El Pokémon es conocido por movimientos eléctricos?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: No
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta B.9: B.9 ¿El Pokémon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: No
+Pregunta None.None: : Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: No
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: Si
+Pregunta B.15: B.15 ¿El Pokémon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.8: C.8 ¿El Pokémon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: No
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: No
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: No
+Pregunta B.13: B.13 ¿El Pokémon es hábil en movimientos de tipo Fantasma?: No
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: No
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: No
+Pregunta B.3: B.3 ¿El Pokémon es conocido por poseer movimientos de tipo Agua?: No
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta B.1: B.1 ¿El Pokémon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta None.None: : No
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta B.16: B.16 ¿El Pokémon es experto en movimientos de tipo Acero?: No
+Pregunta B.10: B.10 ¿El Pokémon es hábil en movimientos de tipo Tierra?: No
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: No
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta B.4: B.4 ¿El Pokémon es experto en ataques de tipo Planta?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: Si
+Pregunta None.None: : No
+Pregunta None.None: : No
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta None.None: : No
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: No
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: No
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: No
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta B.3: B.3 ¿El Pokémon es conocido por poseer movimientos de tipo Agua?: No
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: No
+Pregunta B.7: B.7 ¿El Pokémon es conocido por movimientos eléctricos?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: No
+Pregunta B.13: B.13 ¿El Pokémon es hábil en movimientos de tipo Fantasma?: No
+Pregunta B.1: B.1 ¿El Pokémon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta C.3: C.3 ¿El Pokémon es de color azul predominante en su aspecto?: No
+Pregunta B.10: B.10 ¿El Pokémon es hábil en movimientos de tipo Tierra?: No
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: No
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta B.2: B.2 ¿El Pokémon es hábil en ataques de tipo Fuego?: Si
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta B.7: B.7 ¿El Pokémon es conocido por movimientos eléctricos?: No
+Pregunta C.3: C.3 ¿El Pokémon es de color azul predominante en su aspecto?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta B.4: B.4 ¿El Pokémon es experto en ataques de tipo Planta?: Si
+Pregunta B.3: B.3 ¿El Pokémon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta B.9: B.9 ¿El Pokémon es conocido por movimientos de tipo Lucha?: No
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta None.None: : No
+Pregunta C.8: C.8 ¿El Pokémon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta B.6: B.6 ¿El Pokémon es hábil en ataques de tipo Veneno?: Si
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: Si
+Pregunta None.None: : No
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: Si
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: No
+Pregunta B.14: B.14 ¿El Pokémon es conocido por movimientos de tipo Dragón?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: Si
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta B.16: B.16 ¿El Pokémon es experto en movimientos de tipo Acero?: No
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: Si
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: Si
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: Si
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: Si
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: Si
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: Si
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: Si
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: Si
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: Si
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: Si
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: Si
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta B.15: B.15 ¿El Pokémon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta B.13: B.13 ¿El Pokémon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta None.None: : No
+Pregunta None.None: : No
+Pregunta B.10: B.10 ¿El Pokémon es hábil en movimientos de tipo Tierra?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: No
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: Si
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: Si
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: Si
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: No
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: No
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: No
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: No
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: No
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: No
+Pregunta None.None: : No
+Pregunta B.17: B.17 ¿El Pokémon es conocido por movimientos de tipo Hada?: No
+Pregunta None.None: : Si
+Pregunta B.15: B.15 ¿El Pokémon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: Si
+Pregunta B.6: B.6 ¿El Pokémon es hábil en ataques de tipo Veneno?: Si
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta B.9: B.9 ¿El Pokémon es conocido por movimientos de tipo Lucha?: Si
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta B.2: B.2 ¿El Pokémon es hábil en ataques de tipo Fuego?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta B.14: B.14 ¿El Pokémon es conocido por movimientos de tipo Dragón?: Si
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta B.3: B.3 ¿El Pokémon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: Si
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: Si
+Pregunta B.5: B.5 ¿El Pokémon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta B.2: B.2 ¿El Pokémon es hábil en ataques de tipo Fuego?: No
+Pregunta None.None: : No
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: No
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: No
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: No
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: No
+Pregunta B.6: B.6 ¿El Pokémon es hábil en ataques de tipo Veneno?: No
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: No
+Pregunta C.5: C.5 ¿El Pokémon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta B.16: B.16 ¿El Pokémon es experto en movimientos de tipo Acero?: No
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: No
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: No
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: No
+Pregunta B.1: B.1 ¿El Pokémon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta B.9: B.9 ¿El Pokémon es conocido por movimientos de tipo Lucha?: No
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: No
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: Si
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: Si
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: Si
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: Si
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: No
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: Si
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: Si
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: Si
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: Si
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: Si
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: No
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: No
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: No
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: No
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: No
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: No
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: No
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: No
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: No
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: No
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: No
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: No
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: No
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: No
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta B.6: B.6 ¿El Pokémon es hábil en ataques de tipo Veneno?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: Si
+Pregunta B.5: B.5 ¿El Pokémon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.15: B.15 ¿El Pokémon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.16: B.16 ¿El Pokémon es experto en movimientos de tipo Acero?: Si
+Pregunta B.7: B.7 ¿El Pokémon es conocido por movimientos eléctricos?: Si
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: No
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: No
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: No
+Pregunta B.4: B.4 ¿El Pokémon es experto en ataques de tipo Planta?: No
+Pregunta B.1: B.1 ¿El Pokémon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: Si
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: Si
+Pregunta None.None: : No
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: No
+Pregunta B.13: B.13 ¿El Pokémon es hábil en movimientos de tipo Fantasma?: No
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: No
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: No
+Pregunta B.3: B.3 ¿El Pokémon es conocido por poseer movimientos de tipo Agua?: No
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: No
+Pregunta B.10: B.10 ¿El Pokémon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.15: B.15 ¿El Pokémon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: No
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: No
+Pregunta C.5: C.5 ¿El Pokémon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta None.None: : No
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: No
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: No
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: No
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: Si
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: Si
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: Si
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: No
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: Si
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: No
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: Si
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: Si
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: Si
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.3: C.3 ¿El Pokémon es de color azul predominante en su aspecto?: Si
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: Si
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: Si
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: Si
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: Si
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: No
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: No
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: Si
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: Si
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: No
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: No
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: No
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: No
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: No
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: No
+Pregunta C.3: C.3 ¿El Pokémon es de color azul predominante en su aspecto?: No
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.8: C.8 ¿El Pokémon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: Si
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: No
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: Si
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: No
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: No
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: No
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: Si
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: No
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: No
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: No
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: No
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: No
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: No
+Pregunta C.8: C.8 ¿El Pokémon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.5: C.5 ¿El Pokémon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: No
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: Si
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: Si
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: Si
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: Si
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: Si
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: Si
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: Si
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: Si
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: Si
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: Si
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: Si
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: Si
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: Si
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: Si
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: Si
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.8: C.8 ¿El Pokémon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.5: C.5 ¿El Pokémon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.3: C.3 ¿El Pokémon es de color azul predominante en su aspecto?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.3: A.3 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.7: A.7 ¿El Pokémon es de tipo Veneno?: No
+Pregunta A.18: A.18 ¿El Pokémon es de tipo Hada?: No
+Pregunta A.1: A.1 ¿El Pokémon es de tipo Agua?: Si
+Pregunta A.5: A.5 ¿El Pokémon es de tipo Tierra?: Si
+Pregunta A.14: A.14 ¿El Pokémon es de tipo Fantasma?: No
+Pregunta A.17: A.17 ¿El Pokémon es de tipo Acero?: No
+Pregunta A.16: A.16 ¿El Pokémon es de tipo Siniestro?: No
+Pregunta A.11: A.11 ¿El Pokémon es de tipo Lucha?: No
+Pregunta A.15: A.15 ¿El Pokémon es de tipo Dragón?: No
+Pregunta A.2: A.2 ¿El Pokémon es de tipo Fuego?: No
+Pregunta A.4: A.4 ¿El Pokémon es de tipo Planta?: No
+Pregunta A.10: A.10 ¿El Pokémon es de tipo Psíquico?: No
+Pregunta A.6: A.6 ¿El Pokémon es de tipo Volador?: No
+Pregunta A.13: A.13 ¿El Pokémon es de tipo Roca?: No
+Pregunta A.8: A.8 ¿El Pokémon es de tipo Eléctrico?: No
+Pregunta A.12: A.12 ¿El Pokémon es de tipo Bicho?: No
+Pregunta A.9: A.9 ¿El Pokémon es de tipo Hielo?: No
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.3: C.3 ¿El Pokémon es de color azul predominante en su aspecto?: Si
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.8: C.8 ¿El Pokémon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.5: C.5 ¿El Pokémon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta G.2: G.2 ¿La especie de Pokémon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 ¿El Pokémon tiene más de un tipo elemental?: Si
+Pregunta C.2: C.2 ¿El Pokémon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.10: C.10 ¿El Pokémon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.7: C.7 ¿El Pokémon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.4: C.4 ¿El Pokémon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.9: C.9 ¿El Pokémon tiene una apariencia predominantemente rosa?: No
+Pregunta C.8: C.8 ¿El Pokémon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.6: C.6 ¿El Pokémon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.1: C.1 ¿El Pokémon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.3: C.3 ¿El Pokémon es de color azul predominante en su aspecto?: No
+Pregunta C.5: C.5 ¿El Pokémon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta B.12: B.12 ¿El Pokémon es experto en ataques de tipo Bicho?: No
+Pregunta B.10: B.10 ¿El Pokémon es hábil en movimientos de tipo Tierra?: Si
+Pregunta B.1: B.1 ¿El Pokémon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta B.11: B.11 ¿El Pokémon es conocido por movimientos de tipo Roca?: Si
+Pregunta B.7: B.7 ¿El Pokémon es conocido por movimientos eléctricos?: No
+Pregunta B.13: B.13 ¿El Pokémon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.3: B.3 ¿El Pokémon es conocido por poseer movimientos de tipo Agua?: No
+Pregunta B.15: B.15 ¿El Pokémon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.8: B.8 ¿El Pokémon es habilidoso en ataques de tipo Hielo?: No
+Pregunta B.14: B.14 ¿El Pokémon es conocido por movimientos de tipo Dragón?: Si
+Pregunta B.5: B.5 ¿El Pokémon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.2: B.2 ¿El Pokémon es hábil en ataques de tipo Fuego?: Si
+Pregunta B.6: B.6 ¿El Pokémon es hábil en ataques de tipo Veneno?: Si
+Pregunta B.9: B.9 ¿El Pokémon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.17: B.17 ¿El Pokémon es conocido por movimientos de tipo Hada?: Si
+Pregunta B.16: B.16 ¿El Pokémon es experto en movimientos de tipo Acero?: Si
+Pregunta B.4: B.4 ¿El Pokémon es experto en ataques de tipo Planta?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: No
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: No
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta B.7: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: No
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: No
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: No
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: No
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: No
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: No
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: No
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta B.7: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: No
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: No
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: No
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: No
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: No
+Pregunta B.7: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: No
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: Si
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: No
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: No
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: No
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: No
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: No
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: Si
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: No
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: No
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: Si
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: No
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: No
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: Si
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: No
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: No
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.7: B.7 El Pokemon es conocido por movimientos electricos?: No
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: No
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: Si
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.5: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: No
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: No
+Pregunta B.7: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: Si
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: No
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta B.12: B.12 El Pokemon es experto en ataques de tipo Bicho?: No
+Pregunta B.2: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta B.17: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta B.1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: No
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: No
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: No
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: No
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: No
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: No
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: No
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: No
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: No
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: No
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: No
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta B.6: B.6 El Pokemon es hábil en ataques de tipo Veneno?: No
+Pregunta B.14: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: No
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: No
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: No
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: No
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta B.7: B.7 El Pokemon es conocido por movimientos electricos?: No
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: No
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: No
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: No
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta B.16: B.16 El Pokemon es experto en movimientos de tipo Acero?: No
+Pregunta B.9: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: No
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: No
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: No
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: No
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: No
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: No
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: No
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta B.11: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #2: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #3: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #4: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #5: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #6: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #7: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #8: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #9: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta #10: A.6 El Pokemon es de tipo Volador?: No
+Pregunta #11: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta #12: A.4 El Pokemon es de tipo Planta?: No
+Pregunta #13: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #14: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta #15: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #16: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #17: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta #18: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #19: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #20: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #21: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta #22: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta #23: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta #24: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta #25: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta #26: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta #27: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta #28: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta #29: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta #30: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta #31: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta #32: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta #1: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta #1: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta #1: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta #1: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta #1: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta #1: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta #1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta #1: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta #1: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta #1: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta #1: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta #1: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta #1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta #1: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta #1: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta #1: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta #1: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta #1: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #1: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta #1: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta #1: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta #1: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta #1: B.12 El Pokemon es experto en ataques de tipo Bicho?: Si
+Pregunta #1: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta #1: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta #1: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta #1: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta #1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: B.2 El Pokemon es hábil en ataques de tipo Fuego?: Si
+Pregunta #1: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta #1: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta #1: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta #1: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta #1: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta #1: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta #1: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta #1: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta #1: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: No
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: No
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: No
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: No
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta #1: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta #1: B.12 El Pokemon es experto en ataques de tipo Bicho?: Si
+Pregunta #1: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: No
+Pregunta #1: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta #1: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: No
+Pregunta #1: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta #1: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta #1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta #1: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta #1: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta #1: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: No
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: No
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: No
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: No
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: No
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta #1: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta #1: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: No
+Pregunta #1: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: Si
+Pregunta #1: B.17 El Pokemon es conocido por movimientos de tipo Hada?: No
+Pregunta #1: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta #1: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: Si
+Pregunta #1: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta #1: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta #1: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta #1: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: No
+Pregunta #1: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: No
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: No
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: No
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: No
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: No
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: No
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: No
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: No
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: No
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: No
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: No
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta #1: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta #1: B.2 El Pokemon es hábil en ataques de tipo Fuego?: No
+Pregunta #1: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: No
+Pregunta #1: B.16 El Pokemon es experto en movimientos de tipo Acero?: No
+Pregunta #1: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: No
+Pregunta #1: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta #1: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta #1: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: No
+Pregunta #1: B.12 El Pokemon es experto en ataques de tipo Bicho?: No
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: No
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: No
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: No
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: B.2 El Pokemon es hábil en ataques de tipo Fuego?: Si
+Pregunta #1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta #1: B.12 El Pokemon es experto en ataques de tipo Bicho?: Si
+Pregunta #1: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta #1: B.17 El Pokemon es conocido por movimientos de tipo Hada?: Si
+Pregunta #1: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: Si
+Pregunta #1: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta #1: B.16 El Pokemon es experto en movimientos de tipo Acero?: Si
+Pregunta #1: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: Si
+Pregunta #1: B.11 El Pokemon es conocido por movimientos de tipo Roca?: Si
+Pregunta #1: B.6 El Pokemon es hábil en ataques de tipo Veneno?: Si
+Pregunta #1: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: No
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: No
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: No
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: B.7 El Pokemon es conocido por movimientos electricos?: Si
+Pregunta #1: B.16 El Pokemon es experto en movimientos de tipo Acero?: No
+Pregunta #1: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si
+Pregunta #1: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta #1: B.14 El Pokemon es conocido por movimientos de tipo Dragón?: Si
+Pregunta #1: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: No
+Pregunta #1: B.2 El Pokemon es hábil en ataques de tipo Fuego?: Si
+Pregunta #1: B.12 El Pokemon es experto en ataques de tipo Bicho?: No
+Pregunta #1: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: Si
+Pregunta #1: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: No
+Pregunta #1: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta #1: B.4 El Pokemon es experto en ataques de tipo Planta?: No
+Pregunta #1: B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: No
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: No
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: No
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: Si
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: No
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta #1: A.6 El Pokemon es de tipo Volador?: Si
+Pregunta #1: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta #1: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta #1: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta #1: A.18 El Pokemon es de tipo Hada?: No
+Pregunta #1: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta #1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta #1: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta #1: A.4 El Pokemon es de tipo Planta?: No
+Pregunta #1: A.14 El Pokemon es de tipo Fantasma?: No
+Pregunta #1: A.9 El Pokemon es de tipo Hielo?: No
+Pregunta #1: A.11 El Pokemon es de tipo Lucha?: No
+Pregunta #1: A.5 El Pokemon es de tipo Tierra?: No
+Pregunta #1: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta #1: A.13 El Pokemon es de tipo Roca?: No
+Pregunta #1: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta #1: B.11 El Pokemon es conocido por movimientos de tipo Roca?: No
+Pregunta #1: B.16 El Pokemon es experto en movimientos de tipo Acero?: No
+Pregunta #1: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: No
+Pregunta #1: B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?: No
+Pregunta #1: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta #1: B.9 El Pokemon es conocido por movimientos de tipo Lucha?: No
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta #1: G.1 El Pokemon tiene más de un tipo elemental?: No
+Pregunta #1: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: No
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: No
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: Si
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: Si
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: No
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: No
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: Si
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: No
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: Si
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: Si
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: Si
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.10: B.10 El Pokemon es hábil en movimientos de tipo Tierra?: No
+Pregunta B.4: B.4 El Pokemon es experto en ataques de tipo Planta?: Si
+Pregunta G.1: G.1 El Pokemon tiene más de un tipo elemental?: Si
+Pregunta G.2: G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?: Si
+Pregunta A.9: A.9 El Pokemon es de tipo Hielo?: Si
+Pregunta A.4: A.4 El Pokemon es de tipo Planta?: No
+Pregunta A.16: A.16 El Pokemon es de tipo Siniestro?: Si
+Pregunta A.13: A.13 El Pokemon es de tipo Roca?: No
+Pregunta A.15: A.15 El Pokemon es de tipo Dragón?: Si
+Pregunta A.11: A.11 El Pokemon es de tipo Lucha?: Si
+Pregunta A.1: A.1 El Pokemon es de tipo Agua?: Si
+Pregunta A.18: A.18 El Pokemon es de tipo Hada?: No
+Pregunta A.17: A.17 El Pokemon es de tipo Acero?: No
+Pregunta A.3: A.3 El Pokemon es de tipo Agua?: No
+Pregunta A.6: A.6 El Pokemon es de tipo Volador?: No
+Pregunta A.14: A.14 El Pokemon es de tipo Fantasma?: Si
+Pregunta A.5: A.5 El Pokemon es de tipo Tierra?: No
+Pregunta A.2: A.2 El Pokemon es de tipo Fuego?: Si
+Pregunta A.8: A.8 El Pokemon es de tipo Electrico?: No
+Pregunta A.10: A.10 El Pokemon es de tipo Psíquico?: Si
+Pregunta A.7: A.7 El Pokemon es de tipo Veneno?: No
+Pregunta A.12: A.12 El Pokemon es de tipo Bicho?: Si
+Pregunta C.9: C.9 El Pokemon tiene una apariencia predominantemente rosa?: Si
+Pregunta C.10: C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?: Si
+Pregunta C.4: C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?: No
+Pregunta C.6: C.6 El Pokemon tiene una apariencia acuática con colores relacionados?: Si
+Pregunta C.3: C.3 El Pokemon es de color azul predominante en su aspecto?: No
+Pregunta C.7: C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?: Si
+Pregunta C.1: C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?: No
+Pregunta C.2: C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?: Si
+Pregunta C.5: C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?: No
+Pregunta C.8: C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?: Si
+Pregunta B.8: B.8 El Pokemon es habilidoso en ataques de tipo Hielo?: No
+Pregunta B.3: B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?: Si
+Pregunta B.13: B.13 El Pokemon es hábil en movimientos de tipo Fantasma?: No
+Pregunta B.15: B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?: Si

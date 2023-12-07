@@ -1,0 +1,52 @@
+G.1 El Pokemon tiene más de un tipo elemental?
+G.2 La especie de Pokemon tiene acceso a una variedad de movimientos y ataques?
+A.1 El Pokemon es de tipo Agua?
+A.2 El Pokemon es de tipo Fuego?
+A.3 El Pokemon es de tipo Agua?
+A.4 El Pokemon es de tipo Planta?
+A.5 El Pokemon es de tipo Tierra?
+A.6 El Pokemon es de tipo Volador?
+A.7 El Pokemon es de tipo Veneno?
+A.8 El Pokemon es de tipo Electrico?
+A.9 El Pokemon es de tipo Hielo?
+A.10 El Pokemon es de tipo Psíquico?
+A.11 El Pokemon es de tipo Lucha?
+A.12 El Pokemon es de tipo Bicho?
+A.13 El Pokemon es de tipo Roca?
+A.14 El Pokemon es de tipo Fantasma?
+A.15 El Pokemon es de tipo Dragón?
+A.16 El Pokemon es de tipo Siniestro?
+A.17 El Pokemon es de tipo Acero?
+A.18 El Pokemon es de tipo Hada?
+C.1 El Pokemon tiene una tonalidad mayormente verde en su diseño?
+C.2 El Pokemon tiene una apariencia principalmente rocosa o terrosa?
+C.3 El Pokemon es de color azul predominante en su aspecto?
+C.4 El Pokemon tiene una paleta de colores mayoritariamente cálida?
+C.5 El Pokemon tiene un diseño que destaca por ser mayormente oscuro?
+C.6 El Pokemon tiene una apariencia acuática con colores relacionados?
+C.7 El Pokemon tiene una tonalidad mayormente amarilla en su aspecto?
+C.8 El Pokemon presenta un diseño que se asemeja a un fantasma o espectro?
+C.9 El Pokemon tiene una apariencia predominantemente rosa?
+C.10 El Pokemon tiene un aspecto basado en el hielo o la nieve?
+B.1 El Pokemon es conocido por tener movimientos de tipo Psíquico?
+B.2 El Pokemon es hábil en ataques de tipo Fuego?
+B.3 El Pokemon es conocido por poseer movimientos de tipo Agua?
+B.4 El Pokemon es experto en ataques de tipo Planta?
+B.5 El Pokemon es conocido por sus habilidades en movimientos de tipo Volador?
+B.6 El Pokemon es hábil en ataques de tipo Veneno?
+B.7 El Pokemon es conocido por movimientos electricos?
+B.8 El Pokemon es habilidoso en ataques de tipo Hielo?
+B.9 El Pokemon es conocido por movimientos de tipo Lucha?
+B.10 El Pokemon es hábil en movimientos de tipo Tierra?
+B.11 El Pokemon es conocido por movimientos de tipo Roca?
+B.12 El Pokemon es experto en ataques de tipo Bicho?
+B.13 El Pokemon es hábil en movimientos de tipo Fantasma?
+B.14 El Pokemon es conocido por movimientos de tipo Dragón?
+B.15 El Pokemon es habilidoso en ataques de tipo Siniestro?
+B.16 El Pokemon es experto en movimientos de tipo Acero?
+B.17 El Pokemon es conocido por movimientos de tipo Hada?
+
+
+
+
+
